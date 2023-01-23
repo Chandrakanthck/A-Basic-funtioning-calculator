@@ -6,7 +6,7 @@ INSTALLATION & REQUIREMENTS
 
 Make sure to install  the latest version of python ( visit here https://www.python.org/)
 
-For Linux / Docker :<br />
+For Linux:<br />
 sudo apt install python3<br />
 sudo apt install python3-pip<br />
 pip3 install -r requirements.txt<br />
