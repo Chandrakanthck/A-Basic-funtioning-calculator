@@ -1,7 +1,7 @@
 from tkinter import *
 
 ck=Tk()
-ck.title("C.K'S FIRST CALCULATOR")
+ck.title("Calculator")
 
 a=Entry(ck,text="")
 a.grid(row=0,column=0,columnspan=3,padx=10,pady=10)
